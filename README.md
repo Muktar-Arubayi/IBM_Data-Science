@@ -1,4 +1,4 @@
-# Kola
+# IBM_Data Science
 
 ## Editing the File
 
